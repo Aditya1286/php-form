@@ -1,4 +1,4 @@
-# php-form
+# PHP Application Form
 User Details Collection Website
 Overview
 This project is a simple web application that allows users to enter their details through a form. The application is built using HTML, CSS, and PHP. Upon submission, the user details are processed and displayed back to the user.
