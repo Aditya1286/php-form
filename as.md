@@ -12,7 +12,7 @@
 ```
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=30&duration=3000&pause=1000&color=00D9F7&center=true&vCenter=true&random=false&width=600&height=100&lines=System+Infiltration+Complete;Accessing+Developer+Database...;Full+Stack+Specialist;Security+Enthusiast;Code+Architecture+Virtuoso" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=30&duration=3000&pause=1000&color=00D9F7&center=true&vCenter=true&random=false&width=600&height=100&lines=System+Infiltration+Complete;Accessing+Developer+Database...;Full+Stack+Architect;Cybersecurity+Specialist;UI/UX+Virtuoso;Code+Architecture+Maestro" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -41,6 +41,10 @@ $ ls -la ~/skills
 > drwxr-xr-x Tailwind CSS
 > drwxr-xr-x PHP
 
+$ uptime
+> System online since 2023
+> Current status: Designing the future
+
 $ ssh -p 443 access@adityaaishwarya.vercel.app
 > Connection established...
         </pre>
@@ -65,6 +69,7 @@ $ ssh -p 443 access@adityaaishwarya.vercel.app
           <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
           <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
           <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
+          <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
         </div>
       </td>
       <td valign="top" width="33%">
@@ -74,6 +79,7 @@ $ ssh -p 443 access@adityaaishwarya.vercel.app
           <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
           <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
           <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
+          <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
         </div>
       </td>
       <td valign="top" width="33%">
@@ -83,13 +89,14 @@ $ ssh -p 443 access@adityaaishwarya.vercel.app
           <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
           <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
           <a href="https://www.ubuntu.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ubuntu-plain.svg" alt="Ubuntu" height="50" /></a>
+          <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
         </div>
       </td>
     </tr>
   </table>
 </div>
 
-## 📊 𝗦𝗧𝗔𝗧𝗦
+## 📊 𝟮𝟬𝟮𝟱 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aditya1286&show_icons=true&count_private=true&hide_border=true&title_color=00D9F7&icon_color=00D9F7&text_color=c9d1d9&bg_color=0d1117" width="450"/>
@@ -98,6 +105,33 @@ $ ssh -p 443 access@adityaaishwarya.vercel.app
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya1286&bg_color=0d1117&color=00D9F7&line=00D9F7&point=FFFFFF&hide_border=true" width="100%"/>
+</div>
+
+## 📝 𝗟𝗘𝗘𝗧𝗖𝗢𝗗𝗘 𝗦𝗧𝗔𝗧𝗦
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/aishwaryaaditya2?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="450" />
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td><strong>Profile:</strong></td>
+      <td><a href="https://leetcode.com/u/aishwaryaaditya2/">LeetCode Profile</a></td>
+    </tr>
+    <tr>
+      <td><strong>Problems Solved:</strong></td>
+      <td>250+</td>
+    </tr>
+    <tr>
+      <td><strong>Contest Rating:</strong></td>
+      <td>1620</td>
+    </tr>
+    <tr>
+      <td><strong>Languages:</strong></td>
+      <td>C++, Java, Python</td>
+    </tr>
+  </table>
 </div>
 
 ## 📂 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
@@ -111,11 +145,24 @@ $ ssh -p 443 access@adityaaishwarya.vercel.app
   </a>
 </div>
 
+## ⚙️ 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 𝗧𝗢𝗢𝗟𝗦
+
+<div align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
+
 ## ⚡ 𝗖𝗢𝗡𝗧𝗔𝗖𝗧
 
 <div align="center">
   <a href="https://github.com/Aditya1286" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://leetcode.com/u/aishwaryaaditya2/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" style="margin-bottom: 5px;" />
   </a>
   <!-- Add more social links when available -->
 </div>
@@ -149,6 +196,8 @@ $ ssh -p 443 access@adityaaishwarya.vercel.app
         01101001 01101110 01100111 00100000 01101101 
         01111001 00100000 01110000 01110010 01101111 
         01100110 01101001 01101100 01100101 00100001
+        
+        // Decoded: "Thanks for visiting my profile!"
     </pre>
   </div>
 </details>
